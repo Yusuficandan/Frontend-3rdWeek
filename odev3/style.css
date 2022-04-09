@@ -1,0 +1,45 @@
+p.baslik {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 23pt;
+}
+.bold {
+    font-weight: bold;
+    color:brown;
+}
+p.aciklama {
+    font-style: italic;
+    font-size: 12pt;
+    width: 85%;
+}
+
+td.td-right {
+    width: 40%;
+    
+}
+
+td.td-left {
+    width: 60%;
+}
+
+
+table{
+    width: 85%;
+}
+
+span.span-baslik {
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+ 
+}
+
+h3 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}
+
+html {
+    background-color: bisque;
+}
