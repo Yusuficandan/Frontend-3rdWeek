@@ -1,0 +1,40 @@
+div {
+    align-self: center ;
+}
+
+.inputs {
+ background-color: #EEEEEE;
+}
+.search_google{
+    margin: 0;
+}
+ 
+.center {
+    text-align: center;
+}
+
+p{
+    margin: 0;
+}
+
+table{
+    text-align: center;
+    width: 100%;
+    padding: 25px;
+
+}
+.td-set-1{
+    background-color: #7EE5DA;
+    width: 30%;
+}
+
+.td-set-2{
+    background-color: #70CCC2;
+    width: 15%;
+
+}
+.td-set-3{
+    background-color: #62B3AA;
+    width: 35%;
+   
+}
